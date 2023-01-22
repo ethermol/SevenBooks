@@ -31,5 +31,5 @@ Looking at the structure of this repo generates a totally different list (snatch
 
 8 directories, 1 file
 ```
-Although the language don't match up with the SevenBooks project it will probably get me in touch with modern development technologies.
+Although the language lists don't match up it will probably get me in touch with people using modern development technologies.
 Currently the book club has over a thousand members, get me very curious about how this will develop . . . . . . 
