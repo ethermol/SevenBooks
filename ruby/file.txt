@@ -1,0 +1,268 @@
+[mos@core ~/…/elft-net/SevenBooks/ruby]$ ruby day2.rb                                                                                                                                                                                                                                                      (main|…)  1:38PM
+1, 2, 3, 4
+5, 6, 7, 8
+9, 10, 11, 12
+13, 14, 15, 16
+17, 18, , 
+
+<<<==================================================>>>
+
+1, 2, 3, 4
+5, 6, 7, 8
+9, 10, 11, 12
+13, 14, 15, 16
+17, 18, , 
+[mos@core ~/…/elft-net/SevenBooks/ruby]$                                                                                                                                                                                                                                                                   (main|…)  1:38PM
+[mos@core ~/…/elft-net/SevenBooks/ruby]$ ruby day2.rb                                                                                                                                                                                                                                                      (main|…)  2:06PM
+
+<<<==================================================>>>
+
+day2.rb:11:in `block in <main>': undefined local variable or method `row' for main:Object (NameError)
+
+    puts "#{row}"
+            ^^^
+        from day2.rb:7:in `each'
+        from day2.rb:7:in `<main>'
+[mos@core ~/…/elft-net/SevenBooks/ruby]$ ruby day2.rb                                                                                                                                                                                                                                                      (main|…)  2:06PM
+
+<<<==================================================>>>
+
+
+1234
+5678
+9101112
+13141516
+
+<<<==================================================>>>
+
+1, 2, 3, 4
+5, 6, 7, 8
+9, 10, 11, 12
+13, 14, 15, 16
+17, 18, , 
+[mos@core ~/…/elft-net/SevenBooks/ruby]$                                                                                                                                                                                                                                                                   (main|…)  2:07PM
+[mos@core ~/…/elft-net/SevenBooks/ruby]$ ruby tree.rb                                                                                                                                                                                                                                                      (main|…)  2:08PM
+Visiting a node
+Ruby
+
+visiting entire tree
+Ruby
+Reia
+MacRuby
+[mos@core ~/…/elft-net/SevenBooks/ruby]$ ruby day2.rb                                                                                                                                                                                                                                                      (main|…)  2:08PM
+
+<<<==================================================>>>
+
+
+12, 3, 4, 
+56, 7, 8, 
+910, 11, 12, 
+1314, 15, 16, 
+
+<<<==================================================>>>
+
+1, 2, 3, 4
+5, 6, 7, 8
+9, 10, 11, 12
+13, 14, 15, 16
+17, 18, , 
+[mos@core ~/…/elft-net/SevenBooks/ruby]$ ruby day2.rb                                                                                                                                                                                                                                                      (main|…)  2:08PM
+
+<<<==================================================>>>
+
+, 
+12, 3, 4, , 
+56, 7, 8, , 
+910, 11, 12, , 
+1314, 15, 16, , 
+
+<<<==================================================>>>
+
+1, 2, 3, 4
+5, 6, 7, 8
+9, 10, 11, 12
+13, 14, 15, 16
+17, 18, , 
+[mos@core ~/…/elft-net/SevenBooks/ruby]$ ruby day2.rb                                                                                                                                                                                                                                                      (main|…)  2:09PM
+
+<<<==================================================>>>
+
+, 
+12, 3, 4, , 
+56, 7, 8, , 
+910, 11, 12, , 
+1314, 15, 16, , 
+
+<<<==================================================>>>
+
+1, 2, 3, 4
+5, 6, 7, 8
+9, 10, 11, 12
+13, 14, 15, 16
+17, 18, , 
+[mos@core ~/…/elft-net/SevenBooks/ruby]$ ruby day2.rb                                                                                                                                                                                                                                                      (main|…)  2:09PM
+
+<<<==================================================>>>
+
+
+1, 2, 3, 4, 
+5, 6, 7, 8, 
+9, 10, 11, 12, 
+13, 14, 15, 16, 
+
+<<<==================================================>>>
+
+1, 2, 3, 4
+5, 6, 7, 8
+9, 10, 11, 12
+13, 14, 15, 16
+17, 18, , 
+[mos@core ~/…/elft-net/SevenBooks/ruby]$ a                                                                                                                                                                                                                                                                 (main|…)  2:11PM
+
+
+^C
+[mos@core ~/…/elft-net/SevenBooks/ruby]$ ruby day2.rb                                                                                                                                                                                                                                                      (main|…)  2:15PM
+
+<<<==================================================>>>
+
+day2.rb:11:in `block in <main>': undefined local variable or method `row' for main:Object (NameError)
+
+    puts "#{row}" 
+            ^^^
+        from day2.rb:7:in `each'
+        from day2.rb:7:in `<main>'
+[mos@core ~/…/elft-net/SevenBooks/ruby]$ ''==ruby tree.rb                                                                                                                                                                                                                                                  (main|…)  2:15PM
+zsh: =ruby not found
+[mos@core ~/…/elft-net/SevenBooks/ruby]$ ruby day2.rb                                                                                                                                                                                                                                                      (main|…)  2:16PM
+
+<<<==================================================>>>
+
+
+1, 2, 3, 
+4, 5, 6, 
+7, 8, 9, 
+10, 11, 12, 
+13, 14, 15, 
+
+<<<==================================================>>>
+
+1, 2, 3, 4
+5, 6, 7, 8
+9, 10, 11, 12
+13, 14, 15, 16
+17, 18, , 
+[mos@core ~/…/elft-net/SevenBooks/ruby]$ ruby day2.rb                                                                                                                                                                                                                                                      (main|…)  2:16PM
+day2.rb:16: syntax error, unexpected local variable or method, expecting `then' or ';' or '\n'
+...(number) == array.length() puts "#{row}"
+[mos@core ~/…/elft-net/SevenBooks/ruby]$ ruby day2.rb                                                                                                                                                                                                                                                      (main|…)  2:19PM
+day2.rb:28: syntax error, unexpected end-of-input, expecting `end'
+[mos@core ~/…/elft-net/SevenBooks/ruby]$ ruby day2.rb                                                                                                                                                                                                                                                      (main|…)  2:20PM
+
+<<<==================================================>>>
+
+
+1, 2, 3, 
+4, 5, 6, 
+7, 8, 9, 
+10, 11, 12, 
+13, 14, 15, 
+
+<<<==================================================>>>
+
+1, 2, 3, 4
+5, 6, 7, 8
+9, 10, 11, 12
+13, 14, 15, 16
+17, 18, , 
+[mos@core ~/…/elft-net/SevenBooks/ruby]$                                                                                                                                                                                                                                                                   (main|…)  2:21PM
+[mos@core ~/…/elft-net/SevenBooks/ruby]$ ruby day2.rb                                                                                                                                                                                                                                                      (main|…)  2:22PM
+
+<<<==================================================>>>
+
+
+1, 2, 3, 
+4, 5, 6, 
+7, 8, 9, 
+10, 11, 12, 
+13, 14, 15, 
+16, 17, 18, 
+
+<<<==================================================>>>
+
+1, 2, 3, 4
+5, 6, 7, 8
+9, 10, 11, 12
+13, 14, 15, 16
+17, 18, , 
+[mos@core ~/…/elft-net/SevenBooks/ruby]$                                                                                                                                                                                                                                                                   (main|…)  2:22PM
+[mos@core ~/…/elft-net/SevenBooks/ruby]$                                                                                                                                                                                                                                                                   (main|…)  2:25PM
+[mos@core ~/…/elft-net/SevenBooks/ruby]$ ruby day2.rb                                                                                                                                                                                                                                                      (main|…)  2:25PM
+
+<<<==================================================>>>
+
+
+1, 2, 3, 4, 
+5, 6, 7, 8, 
+9, 10, 11, 12, 
+13, 14, 15, 16, 
+17, 18, 
+
+<<<==================================================>>>
+
+1, 2, 3, 4
+5, 6, 7, 8
+9, 10, 11, 12
+13, 14, 15, 16
+17, 18, , 
+[mos@core ~/…/elft-net/SevenBooks/ruby]$ ruby day2.rb                                                                                                                                                                                                                                                      (main|…)  2:25PM
+
+<<<==================================================>>>
+
+
+1, 2, 3, 4, 
+5, 6, 7, 8, 
+9, 10, 11, 12, 
+13, 14, 15, 16, 
+17, 18, 
+
+<<<==================================================>>>
+
+1, 2, 3, 4
+5, 6, 7, 8
+9, 10, 11, 12
+13, 14, 15, 16
+17, 18, , 
+[mos@core ~/…/elft-net/SevenBooks/ruby]$                                                                                                                                                                                                                                                                   (main|…)  2:27PM
+[mos@core ~/…/elft-net/SevenBooks/ruby]$ ruby day2.rb                                                                                                                                                                                                                                                      (main|…)  2:28PM
+
+<<<==================================================>>>
+
+day2.rb:7:in `<main>': undefined local variable or method `nill' for main:Object (NameError)
+
+row = nill
+      ^^^^
+Did you mean?  nil
+               nil?
+[mos@core ~/…/elft-net/SevenBooks/ruby]$                                                                                                                                                                                                                                                                   (main|…)  2:28PM
+[mos@core ~/…/elft-net/SevenBooks/ruby]$ ruby day2.rb                                                                                                                                                                                                                                                      (main|…)  2:28PM
+
+<<<==================================================>>>
+
+
+1, 2, 3, 4, 
+5, 6, 7, 8, 
+9, 10, 11, 12, 
+13, 14, 15, 16, 
+17, 18, 
+
+    1 This is about life which is a hard game to play
+    2 Not that many people are good at it and many people die as a consequence
+    3 If life was an easy game to play then even I should be able to do it
+    4 Now life is unsure and trying to survive
+~
+~
+~
+~
+~
+ INSERT  main  file.txt [+]                                                                                                                                                                                                                                                                        unix | text  Bot    4:41 
+-- INSERT --                                                                                                                                                                                                                                                                                                      

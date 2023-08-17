@@ -1,0 +1,27 @@
+---
+title: |
+  ![](images/czde-aiops-ml01.png)
+  Getting Ruby
+date: "`r Sys.Date()`"
+author: peter mostert (Cognizant CDE-R2), TeeJ
+toc: true
+output:
+  pdf_document: default
+  html_document: default
+---
+
+# Day 1
+Install Ruby: go for the current version. There are many parsers available, just let them be.
+```
+sudo dnf install ruby
+sudo dnf install rubygem-irb
+```
+First command installed 11 packages, second command was needed for provsioning Interactive RuBy used in the book. This added one package (12 packages in total).
+
+Everything within Ruby is an Object down to each individual number. 
+Typing 4.methods returns the methods that 4 can take.
+
+
+
+
+
